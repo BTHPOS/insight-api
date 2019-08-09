@@ -64,7 +64,7 @@
   "main": "lib",
   "bitcoreNode": "lib",
   "dependencies": {
-    "async": "*",
+    "async": "2.6.1",
     "bitcore-lib": "https://github.com/BTHPOS/bitcore-lib",
     "bitcore-message": "https://github.com/BTHPOS/bitcore-message",
     "body-parser": "^1.13.3",
